@@ -12,3 +12,12 @@ QRAlimy is a responsive web service that offers mobile-friendly digital business
 -  **Data Storage** – Simulates backend storage using `data.json`.
 
 ---
+
+##  Getting Started
+
+### Option 1: Run Locally (Requires PHP)
+
+```bash
+php -S localhost:8000
+```
+Visit: http://localhost:8000
