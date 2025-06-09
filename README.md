@@ -21,3 +21,4 @@ QRAlimy is a responsive web service that offers mobile-friendly digital business
 php -S localhost:8000
 ```
 Visit: http://localhost:8000
+Live Link: https://qralimy.wuaze.com/
